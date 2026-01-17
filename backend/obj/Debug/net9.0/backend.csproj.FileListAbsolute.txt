@@ -1,0 +1,15 @@
+C:\Users\Rinat\.vscode\LABA\Lab1-Fullstack_AbdulinRR\backend\bin\Debug\net9.0\backend.exe
+C:\Users\Rinat\.vscode\LABA\Lab1-Fullstack_AbdulinRR\backend\bin\Debug\net9.0\backend.deps.json
+C:\Users\Rinat\.vscode\LABA\Lab1-Fullstack_AbdulinRR\backend\bin\Debug\net9.0\backend.runtimeconfig.json
+C:\Users\Rinat\.vscode\LABA\Lab1-Fullstack_AbdulinRR\backend\bin\Debug\net9.0\backend.dll
+C:\Users\Rinat\.vscode\LABA\Lab1-Fullstack_AbdulinRR\backend\bin\Debug\net9.0\backend.pdb
+C:\Users\Rinat\.vscode\LABA\Lab1-Fullstack_AbdulinRR\backend\obj\Debug\net9.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rinat\.vscode\LABA\Lab1-Fullstack_AbdulinRR\backend\obj\Debug\net9.0\backend.AssemblyInfoInputs.cache
+C:\Users\Rinat\.vscode\LABA\Lab1-Fullstack_AbdulinRR\backend\obj\Debug\net9.0\backend.AssemblyInfo.cs
+C:\Users\Rinat\.vscode\LABA\Lab1-Fullstack_AbdulinRR\backend\obj\Debug\net9.0\backend.csproj.CoreCompileInputs.cache
+C:\Users\Rinat\.vscode\LABA\Lab1-Fullstack_AbdulinRR\backend\obj\Debug\net9.0\backend.sourcelink.json
+C:\Users\Rinat\.vscode\LABA\Lab1-Fullstack_AbdulinRR\backend\obj\Debug\net9.0\backend.dll
+C:\Users\Rinat\.vscode\LABA\Lab1-Fullstack_AbdulinRR\backend\obj\Debug\net9.0\refint\backend.dll
+C:\Users\Rinat\.vscode\LABA\Lab1-Fullstack_AbdulinRR\backend\obj\Debug\net9.0\backend.pdb
+C:\Users\Rinat\.vscode\LABA\Lab1-Fullstack_AbdulinRR\backend\obj\Debug\net9.0\backend.genruntimeconfig.cache
+C:\Users\Rinat\.vscode\LABA\Lab1-Fullstack_AbdulinRR\backend\obj\Debug\net9.0\ref\backend.dll
